@@ -97,7 +97,7 @@ cv2.solvePnP(object_points, image_points, camera_matrix, dist_coeffs)
 ### Setup
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/omukesh/modelless_pose_estimate_with_color_object_geometry.git
 cd Pose_estimate_color_object_geometry
 ```
 
